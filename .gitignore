@@ -1,0 +1,9 @@
+# 编译产物（安装时自行 make）
+vchat_native/find_keys_macos
+vchat_native/find_image_key_macos
+__pycache__/
+*.pyc
+.DS_Store
+# 本地数据/密钥绝不入库
+*.db
+keys.json
